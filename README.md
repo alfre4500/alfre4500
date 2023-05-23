@@ -6,10 +6,10 @@
 
 ```css
 #alfre2 { 
-  pronous: "he" "him"
+  pronous: "he" ,"him";
   display: Boy;
   position: Autodidact; 
   background: musician and gamer 🔨; 
-  color: black 
+  color: black ;
 }
 ```
