@@ -33,6 +33,18 @@ My name is Alfredo Aguero Ortiz. I am a full stack web developer living in San J
 &nbsp;
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=#FF6C37" alt="Postman logo" title="Postman" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/intellijidea-282C34?logo=intellijidea&logoColor=###000000" alt="intellijidea logo" title="intellijidea" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Spring-282C34?logo=spring&logoColor=###6DB33F" alt=" logo" title="Spring" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Boostrap-282C34?logo=bootstrap&logoColor=#7952B3" alt=" logo" title="Boostrap" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Markdown-282C34?logo=markdown&logoColor=###000000" alt=" logo" title="Markdown" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/vuedotjs-282C34?logo=vuedotjs&logoColor=#4FC08D" alt=" logo" title="vuedotjs" height="25" />][tech_tools_anchor]
+&nbsp;
 
 
 <a name="learning-next"></a>
