@@ -45,6 +45,8 @@ My name is Alfredo Aguero Ortiz. I am a full stack web developer living in San J
 &nbsp;
 [<img src="https://img.shields.io/badge/vuedotjs-282C34?logo=vuedotjs&logoColor=#4FC08D" alt=" logo" title="vuedotjs" height="25" />][tech_tools_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
+&nbsp;
 
 
 <a name="learning-next"></a>
@@ -58,8 +60,7 @@ My name is Alfredo Aguero Ortiz. I am a full stack web developer living in San J
 &nbsp;
 
 ## 👾  What I am interested in learning at some point
-[<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
-&nbsp;
+
 [<img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/GraphQL-282C34?logo=graphql&logoColor=E10098" alt="GraphQL logo" title="GraphQL" height="25" />][learning_next_anchor]
