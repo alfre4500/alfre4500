@@ -1,6 +1,6 @@
 <div id="header" align="center">
- <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="200" />
- <img src="https://giphy.com/embed/gEKz4VLX7fQlsl8SFE" width="200" />
+ <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="400" />
+
  <h1 align="center">Hi I'm Alfred   </h1>
 </div>
 
