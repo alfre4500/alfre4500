@@ -54,15 +54,7 @@
 * **Aplicación Móvil E-commerce Full Stack** | *React Native, Node.js, Express, MongoDB*
     > App nativa para Android con backend escalable, autenticación y pagos con Stripe.
 
----
 
-### 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfre4500&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfre4500&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes Más Usados" />
-</div>
 
 ---
 
