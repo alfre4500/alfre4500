@@ -54,7 +54,7 @@
 ### 📫 Conectemos
 
 <div align="center">
-  <a href="[TU_ENLACE_DE_LINKEDIN]">
+  <a href="(https://www.linkedin.com/in/alfredoagortiz/?skipRedirect=true)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="[TU_ENLACE_DE_GITHUB]">
