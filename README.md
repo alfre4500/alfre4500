@@ -1,21 +1,28 @@
-<h1 align="center">Hola, soy Alfredo Raúl Agüero Ortiz 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alfredo%20Agüero&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXptYXFidXp4azZ4Yms1eXp6Z3Z5Z3lyZ3hxY2V5cXZrZ3N5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" alt="Coding GIF" />
+</div>
 
-<h3 align="center">Frontend Developer | React, Next.js & 3D Web</h3>
+<h3 align="center">Frontend Developer | Especialista en React, Next.js & Experiencias 3D Web</h3>
 
 <p align="center">
-  Especializado en crear experiencias web inmersivas, interactivas y con una estética minimalista. Transformo ideas complejas en interfaces limpias, combinando arquitectura de componentes con animaciones avanzadas en 3D.
+  Apasionado por fusionar la arquitectura limpia del frontend con la potencia visual de las animaciones avanzadas y el 3D. Creo interfaces inmersivas, fluidas y de estética minimalista que priorizan la experiencia del usuario sin sacrificar el rendimiento.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mí
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxYnV4MndjbXFyZHhndTByYnZ2Mmd6czN6Z3B6Y2tqeGZqZ3hxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw3o7TKSjNLTo946GRS/giphy.gif" width="150" alt="Robot waving" />
+
 - 🎓 Cursando la **Tecnicatura en Programación** en la Universidad Nacional de San Juan (UNSJ).
-- 🚀 Perfeccionándome con el **Meta Front-End Developer Professional Certificate** y formaciones en **UX Design** y **Project Management** por Google.
-- 💡 Especialista en frontend con fuerte dominio en **React, Next.js, TypeScript** y desarrollo 3D con **Three.js** y **React Three Fiber**.
-- 🌐 Experiencia en desarrollo Full Stack integrando arquitecturas escalables con Node.js y MongoDB.
-- 🗣️ Inglés fluido (B2), listo para entornos internacionales.
-- 🎮 En mi tiempo libre, me encuentras en la botlane jugando de Support en LoL, o farmeando en Albion Online y Path of Exile.
+- 🚀 Perfeccionándome con el **Meta Front-End Developer Professional Certificate** y formaciones de Google en UX y Project Management.
+- 💡 Especialista en frontend con fuerte dominio en **React, Next.js, TypeScript** y desarrollo 3D con **Three.js / React Three Fiber**.
+- 🌀 Experto en crear micro-interacciones y animaciones complejas usando **GSAP**.
+- 🌐 Experiencia en desarrollo Full Stack integrando Node.js y MongoDB.
+- 🗣️ Inglés fluido (B2).
+- 🎮 Support en LoL, o farmeando en Albion Online y Path of Exile.
 
 ---
 
@@ -43,21 +50,29 @@
 * **Clon Interactivo Apple iPhone 15** | *React, Three.js, React Three Fiber, GSAP*
     > Experiencia web inmersiva que renderiza y controla modelos 3D en tiempo real. Animaciones fluidas sincronizadas con el scroll manteniendo 60+ FPS.
 * **Simulador Interactivo de Sistema Operativo** | *React, Tailwind CSS, Zustand*
-    > Aplicación web que simula la interfaz de un SO, destacando por su gestión de estado avanzada y arquitectura basada en componentes.
+    > Aplicación web que simula la interfaz de un SO, destacando la gestión de estado avanzada.
 * **Aplicación Móvil E-commerce Full Stack** | *React Native, Node.js, Express, MongoDB*
-    > App nativa para Android con backend escalable. Incluye autenticación segura, gestión global de estado e integración con Stripe para pagos.
-* **E-commerce Nike (Landing Page)** | *React, Tailwind CSS, Stripe*
-    > Landing page responsiva con componentes UI reutilizables y optimización de assets para tiempos de carga ultrarrápidos.
+    > App nativa para Android con backend escalable, autenticación y pagos con Stripe.
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alfre4500&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfre4500&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Lenguajes Más Usados" />
+</div>
 
 ---
 
 ### 📫 Conectemos
 
 <div align="center">
-  <a href="(https://www.linkedin.com/in/alfredoagortiz/?skipRedirect=true)">
+  <a href="https://www.linkedin.com/in/alfredoagortiz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[TU_ENLACE_DE_GITHUB]">
+  <a href="https://github.com/alfre4500">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:alfreagor@gmail.com">
