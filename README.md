@@ -1,73 +1,105 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Alfredo%20Agüero&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXptYXFidXp4azZ4Yms1eXp6Z3Z5Z3lyZ3hxY2V5cXZrZ3N5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="400" alt="Coding GIF" />
-</div>
+# Alfredo Agüero | Frontend Developer
 
-<h3 align="center">Frontend Developer | Especialista en React, Next.js & Experiencias 3D Web</h3>
+> Especialista en React, Next.js & Experiencias 3D Web
 
-<p align="center">
-  Apasionado por fusionar la arquitectura limpia del frontend con la potencia visual de las animaciones avanzadas y el 3D. Creo interfaces inmersivas, fluidas y de estética minimalista que priorizan la experiencia del usuario sin sacrificar el rendimiento.
-</p>
+San Juan, Argentina | [LinkedIn](https://www.linkedin.com/in/alfredoagortiz/) | [GitHub](https://github.com/alfredo4500) | [Email](mailto:alfreagor@gmail.com)
 
 ---
 
-### 👨‍💻 Sobre Mí
+## Sobre Mí
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxYnV4MndjbXFyZHhndTByYnZ2Mmd6czN6Z3B6Y2tqeGZqZ3hxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw3o7TKSjNLTo946GRS/giphy.gif" width="150" alt="Robot waving" />
+Soy desarrollador frontend apasionado por crear interfaces inmersivas, fluidas y de alto rendimiento. Me especializo en arquitectura de componentes escalable, animaciones avanzadas y experiencias 3D web. Actualmente trabajando en **No Country** desarrollando aplicaciones web responsivas con impacto visual.
 
-- 🎓 Cursando la **Tecnicatura en Programación** en la Universidad Nacional de San Juan (UNSJ).
-- 🚀 Perfeccionándome con el **Meta Front-End Developer Professional Certificate** y formaciones de Google en UX y Project Management.
-- 💡 Especialista en frontend con fuerte dominio en **React, Next.js, TypeScript** y desarrollo 3D con **Three.js / React Three Fiber**.
-- 🌀 Experto en crear micro-interacciones y animaciones complejas usando **GSAP**.
-- 🌐 Experiencia en desarrollo Full Stack integrando Node.js y MongoDB.
-- 🗣️ Inglés fluido (B2).
-- 🎮 Support en LoL, o farmeando en Albion Online y Path of Exile.
+- 🎯 **Enfoque**: React, Next.js, TypeScript, arquitectura limpia
+- ✨ **Especialidad**: Animaciones (GSAP), 3D (Three.js), diseño responsivo
+- 🚀 **Stack**: Frontend moderno + Full Stack cuando es necesario
+- 📚 **Estudio**: Tecnicatura en Programación (UNSJ) + Meta FrontEnd Professional Certificate
+- 🌐 **Inglés**: B2 Fluido
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+## Proyectos Destacados
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <br>
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <br>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
+### 1. Clon Interactivo Apple iPhone 15
+**React • Three.js • React Three Fiber • GSAP**
+
+[Ver Proyecto](https://macbook-gsap-ebon.vercel.app/) | [Código](https://github.com/alfredo4500)
+
+Experiencia web inmersiva con renderizado 3D en tiempo real. Animaciones scroll-triggered sincronizadas, manteniendo 60+ FPS en navegadores modernos. Demuestra dominio en Three.js y optimización de performance.
+### 2. E-commerce Nike (Landing Page)
+**React • Tailwind CSS • Stripe • Responsive Design**
+
+[Ver Proyecto](https://nike-ecommerce-clone-khaki.vercel.app/) | [Código](https://github.com/alfredo4500)
+
+Landing page profesional con integración de pagos. Arquitectura basada en componentes reutilizables, mobile-first approach y testing en múltiples dispositivos.
+### 3. Simulador Interactivo de Sistema Operativo
+**React • Zustand • Tailwind CSS • Advanced State Management**
+
+[Ver Proyecto](https://alfredo-aguero-dev.netlify.app/) | [Código](https://github.com/alfredo4500)
+
+Aplicación web que simula la interfaz de un SO. Gestión de estado global escalable con Zustand, demostrando patrones React avanzados y optimización de performance.
+---
+
+## Experiencia Profesional
+
+### Desarrollador Frontend | No Country
+**Mayo 2026 - Presente** | React • shadcn/ui • GSAP • Metodologías Ágiles
+
+**Proyecto: OpsCore** — Aplicación web responsiva para reportes de incidentes en planta
+
+- Desarrollo mobile-first con React y shadcn/ui, optimizado para accesibilidad móvil
+- Animaciones fluidas y transiciones con GSAP en formularios y paneles de control
+- Implementación de flujos diferenciados según rol de usuario (Operario, Supervisor, Gerencia)
+- Trabajo ágil en equipo interdisciplinario con Git/GitHub
 
 ---
 
-### 🚀 Proyectos Destacados
+## Stack Técnico
 
-* **Clon Interactivo Apple iPhone 15** | *React, Three.js, React Three Fiber, GSAP*
-    > Experiencia web inmersiva que renderiza y controla modelos 3D en tiempo real. Animaciones fluidas sincronizadas con el scroll manteniendo 60+ FPS.
-* **Simulador Interactivo de Sistema Operativo** | *React, Tailwind CSS, Zustand*
-    > Aplicación web que simula la interfaz de un SO, destacando la gestión de estado avanzada.
-* **Aplicación Móvil E-commerce Full Stack** | *React Native, Node.js, Express, MongoDB*
-    > App nativa para Android con backend escalable, autenticación y pagos con Stripe.
+**Frontend:**
+React • Next.js • TypeScript • Tailwind CSS • Bootstrap • SASS
 
+**Animaciones & 3D:**
+GSAP • Three.js • React Three Fiber
 
+**Estado & Herramientas:**
+Zustand • Context API • Vite • Git/GitHub
+
+**Mobile:**
+React Native • NativeWind • Expo
+
+**Backend & Base de Datos:**
+Node.js • Express • MongoDB
+
+**Integraciones:**
+Stripe • Clerk • Cloudinary • Figma • Postman • Axios
 
 ---
 
-### 📫 Conectemos
+## Educación & Certificaciones
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/alfredoagortiz/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/alfre4500">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:alfreagor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+- **Tecnicatura en Programación** — Universidad Nacional de San Juan (En curso)
+- **Meta Front-End Developer Professional Certificate** (En curso)
+- **Certificado Profesional en Project Management** — Google
+- **Certificado Profesional en Diseño UX** — Google
+- **Desarrollo Web con Node.js** — Ministerio de Educación (Abril 2026)
+- **Bootcamps**: Telecom Digitalers (130h) • MindHub Full Stack • Egg Cooperation
+
+---
+
+## Idiomas
+
+- **Español**: Nativo
+- **Inglés**: B2 - Conversacional fluido
+
+---
+
+## Conectar
+
+Siempre abierto a nuevas oportunidades en desarrollo frontend, especialmente en roles remotos.
+
+[📧 Email](mailto:alfreagor@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/alfredoagortiz/) • [💻 GitHub](https://github.com/alfredo4500)
+
+---
+
+*Última actualización: Mayo 2026*
